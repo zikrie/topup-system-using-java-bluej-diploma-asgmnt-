@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=tT\ tP
+comment0.target=Telecommunication(java.lang.String,\ double)
+comment1.params=tT\ tP
+comment1.target=void\ setData(java.lang.String,\ double)
+comment2.params=
+comment2.target=java.lang.String\ gettelcoType()
+comment3.params=
+comment3.target=double\ gettelcoPrice()
+comment4.params=
+comment4.target=double\ calcPrice()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

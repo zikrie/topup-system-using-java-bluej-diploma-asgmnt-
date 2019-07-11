@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=tT\ tP
+comment0.target=Celcom(java.lang.String,\ double)
+comment1.params=
+comment1.target=double\ gettelcoPrice()
+comment2.params=tT\ tP
+comment2.target=void\ setData(java.lang.String,\ double)
+comment3.params=
+comment3.target=double\ calcPrice()
+comment4.params=
+comment4.target=java.lang.String\ displayInstruction()
+comment5.params=
+comment5.target=java.lang.String\ displayReceipt()
+numComments=6
